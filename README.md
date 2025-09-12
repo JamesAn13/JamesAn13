@@ -1,7 +1,6 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F71A1A&width=500&lines=JamesAn13+Welcome+to+My+GitHub!;🔥+Developer+%7C+Algorithm+%7C+Web+Project+%7C+Quiz+Master+🔥" alt="Typing SVG" />
-  
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
   
   <h2>🚀 Passionate Dev, Always Level Up! 🚀</h2>
