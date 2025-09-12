@@ -48,9 +48,8 @@
 
 ### 📫 Contact
 
-- Email: <your-email@domain.com>
-- Blog: [블로그 링크](#)
-- LinkedIn: [LinkedIn 프로필](#)
+- Email: <ajh113qwe@naver.com>
+- LinkedIn: www.linkedin.com/in/정희-안-3a844437b
 
 ---
 
