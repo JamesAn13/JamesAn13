@@ -65,7 +65,6 @@
 
 ## 🐍 Snake Animation (활동 그래프)
 
-![github-snake](https://github.com/JamesAn13/JamesAn13/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
