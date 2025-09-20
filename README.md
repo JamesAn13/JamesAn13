@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
   
   <h2>🚀 Passionate Dev, Always Level Up! 🚀</h2>
-  <p>알고리즘, 웹 개발, 퀴즈 프로젝트에 미쳐있는 개발자입니다.<br>
-  아이디어를 현실로 만드는 게 즐거운 사람!</p>
+  <p>아이디어를 현실로 만드는 게 즐거운 사람!</p>
   
   <img src="https://komarev.com/ghpvc/?username=JamesAn13&style=for-the-badge"/>
 </div>
